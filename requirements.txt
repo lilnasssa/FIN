@@ -1,6 +1,0 @@
-python-telegram-bot[rate-limiter]==21.6
-openpyxl==3.1.5
-# Фотоотчёт (PNG рисует сам бот, без GPT Images и без токенов)
-Pillow==10.4.0
-# Для внешнего PostgreSQL раскомментируйте строку ниже (без DATABASE_URL работает SQLite)
-# psycopg2-binary==2.9.9
